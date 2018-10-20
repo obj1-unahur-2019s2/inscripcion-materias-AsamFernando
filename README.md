@@ -16,10 +16,10 @@ De cada materia aprobada hay que saber qué materia aprobó y con qué nota.
    * Además cada materia tiene sus propios prerrequisitos, que pueden tener diferentes formas y se detallan a continuación.
    
    Los prerrequisitos de una materia pueden ser:
-   * Un conjunto de materias correlativas: por ejemplo para cursar Algormitmos 3 es necesario haber cursado Algoritmos 2 y Matemática.
+   * Un conjunto de materias correlativas: por ejemplo para cursar Objetos 2 es necesario haber cursado Objetos 1 y Matemática.
    * Una cantidad de créditos: por ejemplo para hacer el Trabajo Final se necesita acumular 250 créditos previamente. (Cada materia aprobada otorga una cantidad de créditos determinada.)
-   * Por año, es decir haber aprobado todas las materias del año anterior. Por ejemplo, para cursar PHM, que es una materia de tercer año, es necesario haber aprobado todas las materias del segundo año.
-   * Nada: Hay materias que no tienen ningún requerimiento, por ejemplo Laboratorio, no tiene ninguna condición especial.
+   * Por año, es decir, haber aprobado todas las materias del año anterior. Por ejemplo, para cursar Objetos 3, que es una materia de tercer año, es necesario haber aprobado todas las materias del segundo año.
+   * Nada: Hay materias que no tienen ningún requerimiento, por ejemplo Elementos de Programación, no tiene ninguna condición especial.
 
 2. Registrar una materia aprobada por un estudiante, verificando que no se cargue dos veces la nota de una misma materia.
 
