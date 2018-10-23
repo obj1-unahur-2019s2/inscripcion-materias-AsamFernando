@@ -45,7 +45,6 @@ De cada materia aprobada hay que saber qué materia aprobó y con qué nota.
 
 ## Bonus
 8. Diferentes materias pueden tener diferentes estrategias para manejar su lista de espera, a saber:
-Pero el criterio para ver quién va a la lista de espera, es distinto según la carrera:
     * Por orden de llegada: si te querés inscribir y no hay lugar vas a la lista de espera por llegar último
     * Elitista: entran los que tengan mejor promedio.
     * Por grado de avance: Inscribimos al estudiante con más materias aprobadas en la carrera.
